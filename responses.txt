@@ -1,0 +1,11 @@
+The accuracy plot shown in Figure 4 of the Pythia paper has increasing accuracy from 4a to 4d as 
+the amount of parameters increases. Similarly, we saw a decrease in loss plotted against an increase
+in the number of parameters in the Pythia models. We can conclude that the greater the number of parameters,
+the better the model performs (appears to be non-linear). 
+
+The plot that results from plot_loss.py follows the same pattern as Figure 3a in the
+Chinchilla paper. It matches because as the number of parameters increases,
+the loss decreases in a non-linear form.
+
+From both the Pythia and Chinchilla paper, it can be concluded that increasing the number
+of parameters increases the accuracy and decreases the loss when evaluating the models.

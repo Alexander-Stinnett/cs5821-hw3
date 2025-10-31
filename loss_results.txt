@@ -1,0 +1,16 @@
+Pythia-14m (Standard) Average loss per token: 4.6823
+
+Pythia-31m (Standard) Average loss per token: 4.2702
+
+Pythia-70m-deduped Average loss per token: 3.8520
+
+Pythia-160m-deduped Average loss per token: 3.5753
+
+Pythia-410m-deduped Average loss per token: 3.4282
+
+Pythia-1b-deduped Average loss per token: 3.2560
+
+Pythia-1.4b-deduped Average loss per token: 3.2226
+
+GPU not happy when trying Pythia-2.8b
+
